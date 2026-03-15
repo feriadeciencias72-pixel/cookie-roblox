@@ -1,0 +1,12 @@
+{
+  "name": "tu-aplicacion",
+  "version": "1.0.0",
+  "main": "cookie.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "echo 'Build completed'"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
